@@ -1,0 +1,23 @@
+{
+  "name": "static-starter",
+  "version": "0.1.0",
+  "devDependencies": {
+    "beepbeep": "^1.2.0",
+    "browser-sync": "^2.7.12",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-csscomb": "^3.0.7",
+    "gulp-csslint": "^0.3.1",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-sass-lint": "^1.2.0",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uncss": "^1.0.5"
+  },
+  "dependencies": {
+    "imagemin-pngquant": "^4.1.2"
+  }
+}

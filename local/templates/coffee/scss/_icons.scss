@@ -1,0 +1,196 @@
+$red: #9e0b0f;
+
+.icon {
+    background-image: url(../img/spritesheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.icon-account {
+    width: 24px;
+    height: 21px;
+    background-position: -25px -25px;
+}
+
+.icon-call {
+    width: 38px;
+    height: 38px;
+    background-position: -25px -96px;
+}
+
+.icon-callcenter {
+    width: 24px;
+    height: 25px;
+    background-position: -25px -184px;
+}
+
+.icon-cap {
+    width: 45px;
+    height: 36px;
+    background-position: -25px -259px;
+}
+
+.icon-cart {
+    width: 23px;
+    height: 22px;
+    background-position: -25px -345px;
+}
+
+.icon-coffee {
+    width: 44px;
+    height: 65px;
+    background-position: -25px -417px;
+}
+
+.icon-delivery {
+    width: 35px;
+    height: 16px;
+    background-position: -25px -532px;
+}
+
+.icon-left {
+    width: 47px;
+    height: 48px;
+    background-position: -25px -598px;
+}
+
+.icon-right {
+    width: 47px;
+    height: 48px;
+    background-position: -25px -696px;
+}
+
+.icon-search {
+    width: 14px;
+    height: 14px;
+    background-position: -25px -794px;
+}
+
+.icon-seed {
+    width: 21px;
+    height: 18px;
+    background-position: -25px -858px;
+}
+
+.icon-service {
+    width: 24px;
+    height: 24px;
+    background-position: -25px -926px;
+}
+
+.icon-ts {
+    width: 27px;
+    height: 24px;
+    background-position: -25px -1000px;
+}
+
+.social {
+    background-image: url(../img/socialsheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.social-tw {
+    width: 15px;
+    height: 11px;
+    background-position: -5px -5px;
+
+    &:hover {
+      background-position: -5px -26px;
+    }
+}
+
+.social-gplus {
+    width: 15px;
+    height: 15px;
+    background-position: -5px -47px;
+
+    &:hover {
+      background-position: -5px -72px;
+    }
+}
+
+.social-fb {
+    width: 8px;
+    height: 16px;
+    background-position: -5px -97px;
+
+    &:hover {
+      background-position: -5px -123px;
+    }
+}
+
+.social-vk {
+    width: 20px;
+    height: 11px;
+    background-position: -5px -149px;
+
+    &:hover {
+      background-position: -5px -170px;
+    }
+}
+
+.social-ok {
+    width: 10px;
+    height: 16px;
+    background-position: -5px -191px;
+
+    &:hover {
+      background-position: -5px -217px;
+    }
+}
+
+
+.adv-icon {
+    background-image: url(../img/advsheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.adv-1 {
+    width: 27px;
+    height: 27px;
+    background-position: -25px -25px;
+}
+
+.adv-2 {
+    width: 32px;
+    height: 32px;
+    background-position: -25px -102px;
+}
+
+.adv-3 {
+    width: 30px;
+    height: 33px;
+    background-position: -25px -184px;
+}
+
+.adv-4 {
+    width: 31px;
+    height: 28px;
+    background-position: -25px -267px;
+}
+
+.adv-5 {
+    width: 24px;
+    height: 24px;
+    background-position: -25px -345px;
+}
+
+.adv-6 {
+    width: 27px;
+    height: 29px;
+    background-position: -25px -419px;
+}
+
+.adv-7 {
+    width: 27px;
+    height: 27px;
+    background-position: -25px -498px;
+}
+
+.adv-8 {
+    width: 26px;
+    height: 24px;
+    background-position: -25px -575px;
+}
